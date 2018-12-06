@@ -1,0 +1,8 @@
+[package]
+name = "three"
+version = "0.1.0"
+authors = ["Vikas Gorur <vikas@airbase.io>"]
+
+[dependencies]
+regex = "1"
+lazy_static = "1.2.0"
