@@ -88,6 +88,6 @@ fn main() {
         }
     }
 
-    //part1(&fabric);
+    part1(&fabric);
     part2(&claims, &fabric);
 }
